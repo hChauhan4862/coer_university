@@ -11,6 +11,7 @@
                 </div>
                 <!-- image area banner of main home paga slider end -->
                 <div class="row">
+                    
                     <!-- float slider banner strart -->
                     <div class="col-lg-5 col-md-6 col-sm-9 float_slider_banner">
                         <div class="slider-content">
@@ -33,7 +34,7 @@
                 </div>
             </div>
         </div>
-        
+
         <div class="single-slide-wrap slide-bg-1">
             <div class="container-fluid p-0">
                 <!-- image area banner of main home paga slider start -->
